@@ -10,6 +10,7 @@ Download a program from the kali linux apache server and send to the email addre
 * while logged in to you email accound https://myaccount.google.com/lesssecureapps and allow it
 * in terminal, get into the location of the apache server folder and then:
   * sudo chmod 777 laZagne.exe 
+* change in the code to your apache server ip address
 * then go to your victim pc get into your apache server website and download only the code
 * run the program after installing all the imports
 * put the email and the email password and you will get an email there with all the information
